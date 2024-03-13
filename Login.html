@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Iniciar Sesion</title>
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="Sesion.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Protest+Strike&family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
+    
+    </head>
+    <body>
+        <header>
+            <div class="caja">
+                <h1><img src="Imagenes/logo.png"></h1>
+                <nav>
+                    <ul>
+                        <li><a href="Inicio.html">Home</a></li>
+                    </ul>
+                </nav>
+            </div>
+            
+        </header>
+        <div class="container">
+            <div class="form-content">
+                <h1 id="title">Iniciar Sesion</h1>
+                <form>
+                    <div class="input-group">
+                        
+                        <div class="input-field">
+                            <i class="fa-solid fa-user"></i>
+                            <input type="email" placeholder="Correo">
+                        </div>
+                        <div class="input-field">
+                            <i class="fa-solid fa-user"></i>
+                            <input type="pasword" placeholder="Contraseña">
+                        </div>
+                        <p>Olvidaste tu contraseña<a href="#">click aqui</a></p>
+                    </div>
+                    <div class="btn-field">
+                        <button id="signUp" type="button">Registro</button>
+                        <button id="signIn" type="button" class="disable">Iniciar sesion</button>           
+                    </div>
+                </form>
+            </div>
+        </div>
+        <script src="Sesion.js"></script>
+    </body>
+</html>

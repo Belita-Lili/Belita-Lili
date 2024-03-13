@@ -1,0 +1,129 @@
+body{
+    font-family: 'Protest Strike', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+background-image: linear-gradient(to top, #000000, #2d2d2d, #575656, #848484, #b4b4b5, #bec4cc, #c2d6e2, #c4eaf1, #9cddf1, #73cef5, #48befb, #19acff);
+}
+
+header{
+    background: none;
+    padding: none;
+}
+
+.caja{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-content{
+    width: 100%;
+    max-width: 450px;
+    background-color: rgb(46, 177, 166);
+    padding: 50px 60px 70px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.form-content h1{
+    font-size: 30px;
+    margin-bottom: 60px;
+    color: antiquewhite;
+    position: relative;
+}
+
+.form-content h1::after{
+    content: '';
+    width: 30px;
+    height: 4px;
+    border-radius: 3px;
+    background: black;
+    position: absolute;
+    bottom: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.input-field{
+    background-color: white;
+    margin: 15px 0;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    transition: max-height 05s;
+    overflow: hidden;
+}
+
+input{
+    width: 100%;
+    background: transparent;
+    border: 0;
+    outline: none;
+    padding: 18px 15px;
+    color: antiquewhite;
+}
+
+input::placeholder{
+    color:black;
+}
+
+.input-field i{
+    margin-left: 15px;
+    color: beige;
+}
+
+form p{
+    color: white;
+    text-align: left;
+    font-size: 13px;
+}
+
+form p a {
+    color: aquamarine;
+    margin-left: 5px;
+}
+
+.btn-field{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-field button{
+    flex-basis: 48%;
+    font-size: 16px;
+    background-color: #048070;
+    color: #ffffff;
+    height: 40px;
+    border-radius: 10px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    transition: background 0.5s;
+}
+
+.input-group{
+    height: 250px;
+}
+
+.btn-field button.disable{
+    background-color: paleturquoise;
+    color: black;
+
+}

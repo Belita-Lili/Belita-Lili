@@ -1,0 +1,353 @@
+body{
+    font-family: 'Protest Strike', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+background-image: linear-gradient(to top, #000000, #2d2d2d, #575656, #848484, #b4b4b5, #bec4cc, #c2d6e2, #c4eaf1, #9cddf1, #73cef5, #48befb, #19acff);
+}
+
+header{
+    background: none;
+    padding: 40px 0;
+}
+
+.caja{
+    width: 940px;
+    position: relative;
+    margin: auto;
+   
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
+.logo{
+    width: 400px;
+}
+
+nav{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin:0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #16a1d3;
+    text-decoration: underline;
+}
+
+.equipo{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    background: none;
+}
+
+.equipo li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 20px 1% ;
+    box-sizing: border-box;
+    border-image-width: 10px;
+}
+
+.equipo li:hover{
+    border-color: #16a1d3;
+}
+
+.equipo li:active{
+    border-color: aqua;
+    color: white;
+}
+
+.equipo h4{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.equipo li:hover h4{
+    font-size: 40px;
+}
+
+.equipo-descripcion{
+    font-size: 18px;
+    color: white;
+}
+
+.linkedin{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: white;
+}
+
+footer{
+    text-align: center;
+    background:none;
+    padding: 40px;
+}
+
+.Copyright{
+    color:white;
+    font-size: 13px;
+    margin: 20px;
+}
+
+form{
+    margin: 40px 0;
+}
+
+form label, form legend{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padrom{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.checkbox{
+    margin: 20px 0;
+}
+
+.enviar{
+    width: 40%;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color:white;
+    background: #16a1d3;
+    border:none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover{
+    background: #054156;
+    transform: scale(1) rotate(5deg);
+}
+
+table{
+    margin: 40px 40px;
+
+}
+thead{
+    background: #130d64;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+td, th{
+    border: 1px solid  #130d64;
+    padding: 8px 15px;
+}
+
+/* Aqui inicia el CSS para nuestra home*/
+
+.banner{
+    width: 100%;
+}
+
+.principal{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    background: none;
+ 
+}
+
+.titulo-principal{
+    font-weight: bold;
+    text-align: left;
+    font-size: 4em;
+    margin: 0 0 1em;
+    clear: left;
+    color: white;
+    
+}
+
+.titulo-principal:hover{
+    opacity: 30%;
+    transition: 0.5s;
+    color: #000000;
+    text-shadow: 2px 2px #000000;
+}
+.subtitulo{
+    font-weight: bold;
+    text-align: left;
+    font-size: 2em;
+    margin: 0 0 3em;
+    clear: left;
+    color: #16a1d3;
+}
+
+.subtitulo-h3{
+    font-weight: bold;
+    text-align: left;
+    font-size: 2em;
+    margin: 0 0 3em;
+    clear: left;
+    color: #000000;;
+}
+
+.principal p{
+    margin: 0 0 1em;
+    font-size: 30px;
+}
+
+.principal strong{
+    font-weight: bold;
+}
+
+.principal em{
+    font-style: italic;
+}
+
+.problema-img{
+    width: 400px;
+    margin: 0;
+    padding: 40px;
+    display: flex;
+    justify-content: left;
+    align-items: left; 
+}
+
+.texto{
+    width: 500px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: right;
+    align-items: right; 
+}
+
+.problema{
+    font-size: 40px;
+    justify-content: right;
+    padding: 40px;
+}
+
+.mision{
+    font-size: 40px;
+    justify-content: right;
+    padding: 40px;
+}
+
+.alimento{
+    width: 400px;
+    margin: 0;
+    padding: 40px;
+    display: flex;
+    justify-content: left;
+    align-items: left;  
+}
+
+.validación{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    background: none;
+}
+
+.porcentaje{
+    width: 940px;
+    padding: auto;
+    margin: auto;
+    float: center;
+    margin: 0 100px 100px 0;
+}
+
+.validación p{
+    margin: 0 0 1em;
+}
+
+.contenido-diferenciales{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-diferenciales{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.imagen-diferenciales{
+    width: 60%;
+    transition: 400ms;
+    box-shadow: 10px 10px 30px 5px #000000;
+
+}
+
+.items{
+    line-height: 1.5;
+}
+
+.items:nth-child(n){
+    font-weight: bold;
+}
+
+.items:before{
+    content: "⭐";
+}
+.imagen-diferenciales{
+    width: 60%;
+}
+
+.imagen-diferenciales:hover{
+    opacity: 30%;
+    transition: 0.5s;
+}
+
+.video{
+    text-align: center;
+    padding: 0;
+    background:none;
+}
+
+@media screen and (max-width:480px){
+    h1{
+        text-align: center;
+    }
+    nav{
+        position: static;
+    }
+    .caja, .principal, .alimento, .principal, .validación, .equipo, .contenido-diferenciales, .video{
+        width: auto;
+    }
+    .lista-diferenciales, .imagen-diferenciales{
+        width: 100%;
+    }
+}
