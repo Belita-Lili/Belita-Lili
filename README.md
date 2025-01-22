@@ -13,7 +13,7 @@ I am a passionate software developer with a focus on Front End development. My j
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Belita-Lili&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Liliana" src="https://github-readme-streak-stats.herokuapp.com/?user=Belita-Lili&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Belita-Lili" src="https://github-readme-streak-stats.herokuapp.com/?user=Belita-Lili&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
