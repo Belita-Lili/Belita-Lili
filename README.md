@@ -1,4 +1,5 @@
-![Uploading ChatGPT Image 30 may 2025, 11_27_35 a.m..png…]()
+![ChatGPT Image 30 may 2025, 11_27_35 a m](https://github.com/user-attachments/assets/8c9773c3-52de-4684-b6a1-aa54a3e07ccc)
+
 
 
 ## Hi there 👋
