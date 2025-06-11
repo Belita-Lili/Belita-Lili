@@ -40,23 +40,8 @@ I am a passionate software developer with a focus on Front End development. My j
 </p>        
 
 
-### Education
-Mujer Digital Front End: This program focused on empowering women in the tech field, offering me not only advanced technical training in Front End development but also mentorship and support to grow as a tech professional. Through Mujer Digital, I delved into topics such as user interface (UI) design, user experience (UX), and frameworks like React and Vue.js.
-### Skills
-**Languages and Technologies**: HTML, CSS, JavaScript, React, Vue.js.
-**Tools and Frameworks**: Bootstrap, SASS, Git, Webpack.
-**Design and UX**: Responsive design, prototyping, web accessibility.
-**Other Skills**: Teamwork, project management, problem-solving.
 
-### Experience
-I have worked on various projects, both individual and collaborative, that have allowed me to apply my knowledge and skills in real-world scenarios. Some of these projects include:
-
-**Website Development**: Creating and maintaining responsive and accessible websites.
-**Web Applications**: Developing interactive web applications using React and Vue.js.
-**Collaboration in Agile Teams**: Participating in agile development teams, contributing clean and efficient code, and collaborating on solving complex problems.
-
-### Vision
-As a developer, I am committed to creating technological solutions that are not only functional and efficient but also provide an excellent user experience. My education has taught me the importance of continuous learning, and I am always looking for new challenges and opportunities to continue growing professionally.
+![gif de serpiente](https://github.com/Belita-Lili/Belita-Lili/blob/output/github-snake-dark.svg)
 
 
 
