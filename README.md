@@ -41,7 +41,4 @@ I am a passionate software developer with a focus on Front End development. My j
 
 
 
-![gif de serpiente](https://github.com/Belita-Lili/Belita-Lili/blob/output/github-snake-dark.svg)
-
-
 
