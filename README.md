@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="FondoGitHub" src="https://github.com/user-attachments/assets/155c99d7-b028-442f-bc82-4fcce035b512" />
+<img width="1983" height="793" alt="ChatGPT Image Jun 11, 2026, 07_09_23 PM" src="https://github.com/user-attachments/assets/519cd162-b77f-450e-a551-e099de53d65a" />
 
 
 
