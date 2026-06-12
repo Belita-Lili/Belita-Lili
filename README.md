@@ -1,4 +1,4 @@
-![ChatGPT Image 30 may 2025, 11_27_35 a m](https://github.com/user-attachments/assets/8c9773c3-52de-4684-b6a1-aa54a3e07ccc)
+<img width="1536" height="1024" alt="FondoGitHub" src="https://github.com/user-attachments/assets/155c99d7-b028-442f-bc82-4fcce035b512" />
 
 
 
